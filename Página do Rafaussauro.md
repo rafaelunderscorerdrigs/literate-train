@@ -1,4 +1,4 @@
-# Nome do meu projeto
+                           # Nome do meu projeto
 
 Rápida descrição do objetivo de fazer esse projeto
 
@@ -6,12 +6,14 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://url-[Uploading index.html…]()
+deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![]()![Projeto Portfolio Alura 2023](https://github.com/rafaelunderscorerdrigs/literate-train/assets/130865143/3aaea4a3-87e1-4a2b-9b49-a60c412c4668#vitrinedev)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto está relacionado as aulas referente ao curso de Html 5, dentro do curso de programação Web da Alura. Em andamento.
