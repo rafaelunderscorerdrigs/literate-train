@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]()![Projeto Portfolio Alura 2023](https://github.com/rafaelunderscorerdrigs/literate-train/assets/130865143/3aaea4a3-87e1-4a2b-9b49-a60c412c4668#vitrinedev)
+![Projeto Portfolio Alura 2023](https://github.com/rafaelunderscorerdrigs/literate-train/assets/130865143/3aaea4a3-87e1-4a2b-9b49-a60c412c4668#vitrinedev)
 
 
 ## Detalhes do projeto
