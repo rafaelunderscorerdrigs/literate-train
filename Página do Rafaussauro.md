@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | file:///C:/Users/Rafael%20Rodrigues/Desktop/PORTFOLIO/index.html
+| :rocket: URL         | 
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
