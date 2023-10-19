@@ -1,4 +1,4 @@
-                           # Nome do meu projeto
+                           # Curso html Alura
 
 Rápida descrição do objetivo de fazer esse projeto
 
@@ -6,8 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-[Uploading index.html…]()
-deploy.com.br
+| :rocket: URL         | file:///C:/Users/Rafael%20Rodrigues/Desktop/PORTFOLIO/index.html
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
