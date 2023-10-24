@@ -10,12 +10,13 @@ Página criada e desenvolvida por mim com os cirsos html e css da alura cursos. 
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Projeto Portfolio Alura 2023](#![Captura de tela 2023-10-24 153659](https://github.com/rafaelunderscorerdrigs/literate-train/assets/130865143/403a07e9-394d-4f7d-8bf4-6a7e1ad50e42#vitrineDev)
+![Projeto Portfolio Alura 2023](https://github.com/rafaelunderscorerdrigs/literate-train/assets/130865143/333a942a-105a-41e2-b256-fa4068561c21#vitrineDev)
+
 trinedev)
 
 
 ## Detalhes do projeto
-HTML
-CSS
+##HTML
+##CSS
 
-O projeto está relacionado as aulas referente ao curso de Html 5, dentro do curso de programação Web da Alura. Em andamento.
+O projeto está relacionado as aulas referente ao curso de Html 5, dentro do curso de programação Web da Alura. Em desenvolvimento.
