@@ -1,6 +1,6 @@
                            # Curso html Alura
 
-Página criada e desenvolvida por mim com os cirsos html e css da alura cursos. Intuito de desevolver habilidade e uma página possível de acessar em diferentes dispositivos, acessando links e agragando mais um item no meu portfólio.
+Página criada e desenvolvida por mim com os cursos html e css da alura cursos. Intuito de desevolver uma página possível de acessar em diferentes dispositivos, acessando links. Agregando mais um item no meu portfólio.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
