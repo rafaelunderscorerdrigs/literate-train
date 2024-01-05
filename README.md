@@ -6,11 +6,10 @@ Meu primeiro portfolio desenvolvido com os cursos  de HTML  e CSS da Alura
 * CSS
 * Flex-box
 
-##Feito por:
+## Feito por:
+Rafael Rodrigues
 
-###Rafael Rodrigues
-
-###LinkedIn:
+### LinkedIn:
 https://www.linkedin.com/in/rafael-lago-silva-rodrigues/
   
 
